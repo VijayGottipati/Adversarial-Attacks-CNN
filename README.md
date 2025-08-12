@@ -1,4 +1,4 @@
-# Deep Learning Final Project: Adversarial Attacks on Image Classification Models
+# Adversarial-Attacks-CNN
 
 This repository contains the implementation of adversarial attacks on deep neural networks for image classification, specifically targeting ResNet-34 and evaluating transferability to DenseNet-121.
 
